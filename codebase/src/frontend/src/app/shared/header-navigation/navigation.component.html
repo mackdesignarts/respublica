@@ -44,14 +44,15 @@
                     </div>
                 </li>
             </ul>
-            <div>
-                <ul class="list-inline">
-                    <li class="list-inline-item" *ngFor="let group of groups; let i = index">
-                        <a href="/group/{{htmlFilter(group.name)}}" class="group-name-header">{{ group.name }}</a>
-                        <span><img src="assets/images/icon-diamond-bullet.png" /></span>
-                    </li>
-                </ul>
-            </div>
+        </div>
+        <div class="clear-both"></div>
+        <div>
+            <ul class="list-inline">
+                <li class="list-inline-item" *ngFor="let group of groups; let i = index">
+                    <a href="/group/{{htmlFilter(group.name)}}" class="group-name-header">{{ group.name }}</a>
+                    <span><img src="assets/images/icon-diamond-bullet2.png" /></span>
+                </li>
+            </ul>
         </div>
     </nav>
 </header>
