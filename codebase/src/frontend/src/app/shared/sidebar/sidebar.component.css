@@ -1,0 +1,8 @@
+.fix-sidebar .left-sidebar {
+    position: relative !important;
+}
+
+.left-sidebar {
+    position: relative !important;
+    padding: 80px 15px 0px;
+}

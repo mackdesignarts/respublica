@@ -1,0 +1,378 @@
+{ "groups": [
+    {
+        "_id": "123456789abcdeffff",
+        "name": "bubblegum",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "A random group about random things starting with the letter b for reasons.",
+        "keywords": [
+            "sex", 
+            "random",
+            "drugs",
+            "general",
+            "technology",
+            "alt-right"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Game of Avatars",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Avatarfags unite and conquer (one another). Also have on-going discussion.",
+        "keywords": [
+            "sex", 
+            "anime",
+            "drugs",
+            "mlp",
+            "cartoons",
+            "hentai"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 75,
+        "image": "/images/groups/general.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Cashbox",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Dedicated to investment discussions, raising capital, finding partners and launching startup campaigns.",
+        "keywords": [
+            "money", 
+            "business",
+            "investment",
+            "real estate",
+            "stocks"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/cashbox.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Muse",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Arts, entertainment and creativity.",
+        "keywords": [
+            "entertainment", 
+            "art",
+            "fine art",
+            "graffiti",
+            "creativity"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Fap Folder",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Sharing the best porn, one image at a time.",
+        "keywords": [
+            "sex", 
+            "porn",
+            "pictures"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Tech Crack",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Technology discussion.",
+        "keywords": [
+            "tech", 
+            "IT",
+            "programming"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "Publius",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Political discussion of all flavors.",
+        "keywords": [
+            "sex", 
+            "random",
+            "drugs",
+            "general",
+            "technology",
+            "alt-right"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    },
+    {
+        "_id": "123456789abcdeffff",
+        "name": "The Game",
+        "dateCreated": "2017-10-10T13:28:06.419Z",
+        "createdBy": "f1239023109aecce",
+        "active": true,
+        "posts": [
+            {
+                "id": "12345af23ace44"
+            },
+            {
+                "id": "12345af23ace44"
+            }
+        ],
+        "description": "Music industry - new and emerging artists, songs, production, agency.",
+        "keywords": [
+            "sex", 
+            "random",
+            "drugs",
+            "general",
+            "technology",
+            "alt-right"
+        ],
+        "members": [
+            {
+                "id": "f1239023109aecce",
+                "status": "creator"
+            },
+            {
+                "id": "12c39023109aefce",
+                "status": "admin"
+            },
+            {
+                "id": "71239023109aecge",
+                "status": "janitor"
+            },
+            {
+                "id": "41239023109aecbe",
+                "status": "member"
+            },
+            {
+                "id": "a342023109aecbe",
+                "status": "member"
+            }
+        ],
+        "rank": 89,
+        "image": "/images/groups/bubblegum.png"
+    }
+]}

@@ -1,0 +1,12 @@
+<div class="search">
+    <input 
+        type="text" 
+        class="form-control search-bar" 
+        name="search" 
+        placeholder="Enter keywords..."
+        [(ngModel)]="searchValue"
+    />
+    <button type="submit" class="btn btn-primary btn-sm blue-search-button" (click)="searchSubmit(searchValue)">
+        <i class="fa fa-search search-text" aria-hidden="true"></i>
+    </button>
+</div>

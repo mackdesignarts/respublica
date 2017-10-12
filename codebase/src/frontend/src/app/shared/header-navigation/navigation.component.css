@@ -1,0 +1,96 @@
+header {
+    font-family: Lato, sans-serif;
+}
+
+.topbar {
+    background-color: #fff;
+}
+
+.topbar .navbar-header {
+    background: none;
+    padding: 6px 0;
+}
+
+.main-logo {
+    height: 55px;
+    margin-right: 10px;
+}
+
+.logo-type {
+    width: 150px;
+    padding: 0 5px;
+}
+
+.logo-wordmark {
+    margin-top: -10px;
+    float: right;
+}
+
+.topbar .profile-pic {
+    width: 38px;
+    border-radius: .20rem;
+}
+
+.navbar-nav {
+    display: unset; 
+}
+
+.utility-icons {
+    float: right;
+}
+
+ul.list-inline li {
+    padding: 0;
+}
+
+.blue-button {
+    background-color: #336ccf;
+    border-radius: 3px !important;
+    height: 35px;
+    width: 85px;
+    color: #fff;
+    font-family: Lato, sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 700 !important; 
+    line-height: 14px !important;
+}
+
+.button-add {
+    font-size: 20px;
+    line-height: 18px !important;
+    font-weight: 700;
+    font-family: Lato, sans-serif;
+    margin: 0 0 0 3px;
+    display: inline-block;
+}
+
+.button-new {
+    line-height: 20px !important;
+    float: right;
+    margin-right: 5px;
+}
+
+.group-name-header {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-collapse {
+        display: unset !important;
+    }
+
+    .navbar-header {
+        width: 280px;
+    }
+    
+    .navbar-expand-md .navbar-nav {
+        -ms-flex-direction: unset;
+        -webkit-box-orient: unset;
+        -webkit-box-direction: unset;
+        flex-direction: unset;
+    }
+}
+
+.topbar .top-navbar .navbar-header {
+    text-align: left;
+}
